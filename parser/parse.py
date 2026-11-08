@@ -138,6 +138,21 @@ JUNK = [
     (r"webcam|вебкам|чата?", "скам"),
     (r"инвест|трейдинг|крипт|forex", "скам-финансы"),
     (r"заработок|доход от", "скам-формулировка"),
+    # бьюти-сфера и прочие неинтересные отрасли
+    (r"маникюр|ногтев|педикюр|бровист|лашмейкер|ресниц|косметолог|косметич",
+     "бьюти-сфера"),
+    (r"парикмах|барбер|барберин|визаж|эпиляц|шугаринг", "бьюти-сфера"),
+    (r"повар|пиццамейк|пекарь|кондитер|кухон|бариста|бармен|официант", "общепит"),
+    (r"продавец|кассир|мерчендайз|товаровед|кладовщик|комплектовщик|грузчик",
+     "розница / склад"),
+    (r"водител|таксист|экспедитор|курьер", "водители / доставка"),
+    (r"сборщик|разнорабоч|фасовщ|упаковщ|оператор линии|стажёр.*(производств|цех)",
+     "производство / разнорабочие"),
+    (r"звонцентр|call-?центр|оператор.*звонков|менеджер по (продажам|работе с клиент)",
+     "продажи / обзвон"),
+    (r"уборщ|горничн|дворник|посудомойщ", "уборка / клининг"),
+    (r"охранник|контролер.*зала|смотрящ", "охрана"),
+    (r"воспитател|нян|сиделк|аниматор детск", "соцсфера"),
 ]
 
 # id: (rank, короткий вердикт)
@@ -186,12 +201,17 @@ def main():
 
     clean = [v for v in raw
              if v.get("currency") in ("RUR", None)
-             and (v.get("per_to") or v.get("per_from") or 0) >= MIN_SALARY]
+             and (v.get("per_to") or v.get("per_from") or 0) >= MIN_SALARY
+             # пользователь ищет только вакансии без опыта
+             and (v.get("exp") == "noExperience")]
 
     out = []
     new_count = 0
     for v in clean:
         vid = str(v["id"])
+        # ловушки и автофильтр-мусор вообще не выгружаем (звёздные — исключение)
+        if vid in TRAPS or (vid not in STARS and junk_label(v)):
+            continue
         is_new = vid not in seen
         if is_new:
             new_count += 1
@@ -199,12 +219,6 @@ def main():
         if vid in STARS:
             rank, verdict = STARS[vid]
             mark = "star"
-        elif vid in TRAPS:
-            mark, verdict = "trap", TRAPS[vid]
-        else:
-            jl = junk_label(v)
-            if jl:
-                mark, verdict = "junk", jl
         out.append({
             "id": vid,
             "name": v["name"],
@@ -248,10 +262,11 @@ def main():
         "total": len(out),
         "new_count": new_count,
         "stars": sum(1 for v in out if v["mark"] == "star"),
-        "hidden": sum(1 for v in out if v["mark"] in ("trap", "junk")),
+        "hidden": len(clean) - len(out),
     }, ensure_ascii=False, indent=1), "utf-8")
 
-    print(f"TOTAL: {len(out)} (new: {new_count}, stars: {sum(1 for v in out if v['mark']=='star')})")
+    print(f"TOTAL: {len(out)} (new: {new_count}, stars: {sum(1 for v in out if v['mark']=='star')}, "
+          f"filtered out: {len(clean) - len(out)})")
 
 
 if __name__ == "__main__":

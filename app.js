@@ -71,10 +71,8 @@ function renderStats() {
 function render() {
   const q = $("search").value.trim().toLowerCase();
   const onlyNew = $("only-new").checked;
-  const showRejected = $("show-rejected").checked;
 
   const rows = VACANCIES.filter((v) => {
-    if (!showRejected && (v.mark === "trap" || v.mark === "junk")) return false;
     if (onlyNew && !v.is_new) return false;
     if (q && !(v.name + " " + v.employer).toLowerCase().includes(q)) return false;
     return true;
@@ -84,14 +82,12 @@ function render() {
   tbody.innerHTML = rows.map((v) => {
     const badges =
       (v.is_new ? '<span class="badge new">NEW</span>' : "") +
-      (v.mark === "star" ? '<span class="badge star">⭐ шорт-лист</span>' : "") +
-      (v.mark === "trap" ? '<span class="badge trap">🚫 ловушка</span>' : "") +
-      (v.mark === "junk" ? '<span class="badge junk">🚫 ' + v.verdict + "</span>" : "");
+      (v.mark === "star" ? '<span class="badge star">⭐ шорт-лист</span>' : "");
     const rating = v.rating
       ? `★ ${Number(v.rating).toFixed(1)}` + (v.reviews ? ` <span class="employer-site">(${v.reviews})</span>` : "")
       : "—";
-    const verdict = v.verdict && v.mark !== "junk" ? `<span class="verdict">${v.verdict}</span>` : "";
-    return `<tr class="${v.mark === "trap" || v.mark === "junk" ? "trap-row" : ""}">
+    const verdict = v.verdict ? `<span class="verdict">${v.verdict}</span>` : "";
+    return `<tr>
       <td class="name-cell"><a class="vac" href="${v.url}" target="_blank" rel="noopener">${v.name}</a>${badges}${verdict}</td>
       <td>${v.employer ?? "—"}</td>
       <td class="num">${salaryText(v)}${v.gross ? "" : " <span class=\"employer-site\">на руки</span>"}</td>
@@ -124,6 +120,5 @@ async function load(silent) {
 
 $("search").addEventListener("input", render);
 $("only-new").addEventListener("change", render);
-$("show-rejected").addEventListener("change", render);
 
 load().then(startTimer);
