@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Вакансии недели — Пермь, от 50 000 ₽</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Вакансии недели — Пермь <span class="sub">от 50 000 ₽/мес · hh.ru</span></h1>
+    <div class="topline">
+      <div class="timer" id="timer-box">
+        <span class="timer-label">Следующий парс через</span>
+        <span class="timer-value" id="timer">--:--:--</span>
+        <span class="timer-note">ежедневно в 08:00 МСК</span>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="controls">
+      <input type="search" id="search" placeholder="Поиск: должность или компания…">
+      <label><input type="checkbox" id="only-new"> только новые</label>
+      <label><input type="checkbox" id="show-rejected" checked> показывать отсеянные</label>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="tablewrap">
+    <table id="table">
+      <thead>
+        <tr>
+          <th>Вакансия</th>
+          <th>Компания</th>
+          <th class="num">ЗП, ₽</th>
+          <th>Опыт</th>
+          <th class="num">Рейтинг</th>
+          <th class="num">Откл.</th>
+          <th>Район</th>
+          <th>Дата</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <p class="empty" id="empty" hidden>Ничего не найдено</p>
+  <p class="footnote">
+    Все зарплаты — gross (до НДФЛ), вилка «от–до» по данным hh.ru.
+    ⭐ — шорт-лист, 🚫 — отсеянные (ловушки и автофильтр).
+    Данные обновляются автоматически каждый день в 08:00 МСК.
+  </p>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
