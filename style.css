@@ -85,6 +85,7 @@ a.vac:hover { text-decoration: underline; }
   border-radius: 5px; padding: 1px 6px; margin-left: 6px; vertical-align: 1px;
 }
 .badge.new { background: var(--new-bg); color: var(--new); }
+.badge.small { background: #eef3ee; color: #3f7a52; }
 .badge.star { background: var(--star-bg); color: var(--star); }
 .badge.trap { background: var(--trap-bg); color: var(--trap); }
 .badge.junk { background: #eceef1; color: var(--muted); }

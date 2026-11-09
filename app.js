@@ -82,6 +82,7 @@ function render() {
   tbody.innerHTML = rows.map((v) => {
     const badges =
       (v.is_new ? '<span class="badge new">NEW</span>' : "") +
+      (v.size === "small" ? '<span class="badge small">+ малая компания</span>' : "") +
       (v.mark === "star" ? '<span class="badge star">⭐ шорт-лист</span>' : "");
     const rating = v.rating
       ? `★ ${Number(v.rating).toFixed(1)}` + (v.reviews ? ` <span class="employer-site">(${v.reviews})</span>` : "")

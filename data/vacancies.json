@@ -15,7 +15,8 @@
   "url": "https://perm.hh.ru/vacancy/139183032",
   "mark": "star",
   "verdict": "Обучение сборке/ремонту ПК с нуля, малая контора, вход в IT через железо",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139073620",
@@ -33,7 +34,8 @@
   "url": "https://perm.hh.ru/vacancy/139073620",
   "mark": "star",
   "verdict": "Обучение с нуля, чевые легально, рост до старшего официанта через 6 мес.",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139211130",
@@ -51,7 +53,8 @@
   "url": "https://perm.hh.ru/vacancy/139211130",
   "mark": "star",
   "verdict": "Малая компания, обучают, честные «от 50 000», 5/2",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138202914",
@@ -69,7 +72,8 @@
   "url": "https://perm.hh.ru/vacancy/138202914",
   "mark": "star",
   "verdict": "2 месяца оплачиваемого обучения — реальная дверь в IT-компанию",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139216495",
@@ -87,7 +91,8 @@
   "url": "https://perm.hh.ru/vacancy/139216495",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139111239",
@@ -105,7 +110,27 @@
   "url": "https://perm.hh.ru/vacancy/139111239",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138334175",
+  "name": "Рабочий на автомобильный завод",
+  "employer": "ЛЕРТЕКО-ГРУПП",
+  "per_from": 274300,
+  "per_to": null,
+  "gross": false,
+  "rating": "5.0",
+  "reviews": 34,
+  "exp": "noExperience",
+  "responses": 18,
+  "district": null,
+  "pub": "2026-10-11",
+  "url": "https://perm.hh.ru/vacancy/138334175",
+  "mark": "",
+  "verdict": "",
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "138962606",
@@ -123,7 +148,8 @@
   "url": "https://perm.hh.ru/vacancy/138962606",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138383222",
@@ -141,7 +167,8 @@
   "url": "https://perm.hh.ru/vacancy/138383222",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138069619",
@@ -159,7 +186,8 @@
   "url": "https://perm.hh.ru/vacancy/138069619",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138383226",
@@ -177,7 +205,8 @@
   "url": "https://perm.hh.ru/vacancy/138383226",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138896752",
@@ -195,7 +224,8 @@
   "url": "https://perm.hh.ru/vacancy/138896752",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139172287",
@@ -213,7 +243,8 @@
   "url": "https://perm.hh.ru/vacancy/139172287",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138896751",
@@ -231,25 +262,8 @@
   "url": "https://perm.hh.ru/vacancy/138896751",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138871352",
-  "name": "Помощник бурильщика",
-  "employer": "ООО РН-Сервис",
-  "per_from": 160000,
-  "per_to": null,
-  "gross": false,
-  "rating": "4.0",
-  "reviews": 260,
-  "exp": "noExperience",
-  "responses": 187,
-  "district": null,
-  "pub": "2026-10-27",
-  "url": "https://perm.hh.ru/vacancy/138871352",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138977425",
@@ -267,7 +281,8 @@
   "url": "https://perm.hh.ru/vacancy/138977425",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138701217",
@@ -285,7 +300,8 @@
   "url": "https://perm.hh.ru/vacancy/138701217",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138733386",
@@ -303,133 +319,8 @@
   "url": "https://perm.hh.ru/vacancy/138733386",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138911816",
-  "name": "Представитель Т-Банка",
-  "employer": "Т-Банк. Работа с клиентами. Встречи с клиентами",
-  "per_from": 131900,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 18037,
-  "exp": "noExperience",
-  "responses": 26,
-  "district": null,
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/138911816",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138920031",
-  "name": "Представитель в Т-Банк",
-  "employer": "Т-Банк. Работа с клиентами. Встречи с клиентами",
-  "per_from": 131900,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 18037,
-  "exp": "noExperience",
-  "responses": 8,
-  "district": null,
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/138920031",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138927515",
-  "name": "Представитель в Т-Банке",
-  "employer": "Т-Банк. Работа с клиентами. Встречи с клиентами",
-  "per_from": 131900,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 18037,
-  "exp": "noExperience",
-  "responses": 0,
-  "district": null,
-  "pub": "2026-11-07",
-  "url": "https://perm.hh.ru/vacancy/138927515",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138924420",
-  "name": "Представитель в Т-Bank",
-  "employer": "Т-Банк. Работа с клиентами. Встречи с клиентами",
-  "per_from": 131900,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 18037,
-  "exp": "noExperience",
-  "responses": 0,
-  "district": null,
-  "pub": "2026-11-07",
-  "url": "https://perm.hh.ru/vacancy/138924420",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138930361",
-  "name": "Представитель Т-Bank",
-  "employer": "Т-Банк. Работа с клиентами. Встречи с клиентами",
-  "per_from": 131900,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 18037,
-  "exp": "noExperience",
-  "responses": 0,
-  "district": null,
-  "pub": "2026-11-07",
-  "url": "https://perm.hh.ru/vacancy/138930361",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "135714549",
-  "name": "Монтажник",
-  "employer": "\"МТС\", Технический блок",
-  "per_from": 120000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 68,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/135714549",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "130012139",
-  "name": "Инженер-монтажник",
-  "employer": "\"МТС\", Технический блок",
-  "per_from": 120000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 21,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/130012139",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139179264",
@@ -447,7 +338,8 @@
   "url": "https://perm.hh.ru/vacancy/139179264",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138982130",
@@ -465,7 +357,8 @@
   "url": "https://perm.hh.ru/vacancy/138982130",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139055774",
@@ -483,7 +376,8 @@
   "url": "https://perm.hh.ru/vacancy/139055774",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138370093",
@@ -501,7 +395,8 @@
   "url": "https://perm.hh.ru/vacancy/138370093",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139089436",
@@ -510,8 +405,8 @@
   "per_from": 120000,
   "per_to": 140000,
   "gross": false,
-  "rating": "3.7",
-  "reviews": 3,
+  "rating": null,
+  "reviews": null,
   "exp": "noExperience",
   "responses": 59,
   "district": "Ленинский",
@@ -519,7 +414,8 @@
   "url": "https://perm.hh.ru/vacancy/139089436",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139108527",
@@ -537,43 +433,8 @@
   "url": "https://perm.hh.ru/vacancy/139108527",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139133972",
-  "name": "Организатор корпоративных мероприятий",
-  "employer": "Алабуга. Менеджмент",
-  "per_from": 112500,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.6",
-  "reviews": 1266,
-  "exp": "noExperience",
-  "responses": 12,
-  "district": null,
-  "pub": "2026-11-04",
-  "url": "https://perm.hh.ru/vacancy/139133972",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "137667813",
-  "name": "Мобильный банкир",
-  "employer": "Альфа-Банк",
-  "per_from": 110000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.5",
-  "reviews": 19786,
-  "exp": "noExperience",
-  "responses": 7,
-  "district": null,
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/137667813",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "136873105",
@@ -591,7 +452,8 @@
   "url": "https://perm.hh.ru/vacancy/136873105",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139056607",
@@ -609,7 +471,8 @@
   "url": "https://perm.hh.ru/vacancy/139056607",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138993499",
@@ -627,7 +490,27 @@
   "url": "https://perm.hh.ru/vacancy/138993499",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138664775",
+  "name": "Инструктор по вождению, категории В",
+  "employer": "Федеральная Академия вождения Вектор",
+  "per_from": 100000,
+  "per_to": null,
+  "gross": false,
+  "rating": "4.4",
+  "reviews": 228,
+  "exp": "noExperience",
+  "responses": 80,
+  "district": "Ленинский",
+  "pub": "2026-11-07",
+  "url": "https://perm.hh.ru/vacancy/138664775",
+  "mark": "",
+  "verdict": "",
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "139199153",
@@ -645,7 +528,8 @@
   "url": "https://perm.hh.ru/vacancy/139199153",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138876479",
@@ -663,25 +547,8 @@
   "url": "https://perm.hh.ru/vacancy/138876479",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138541431",
-  "name": "Специалист Ozon Банка на ПВЗ",
-  "employer": "Ozon Банк",
-  "per_from": 100000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.7",
-  "reviews": 11258,
-  "exp": "noExperience",
-  "responses": 155,
-  "district": "Ленинский",
-  "pub": "2026-10-26",
-  "url": "https://perm.hh.ru/vacancy/138541431",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138384099",
@@ -699,7 +566,8 @@
   "url": "https://perm.hh.ru/vacancy/138384099",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138588411",
@@ -717,7 +585,8 @@
   "url": "https://perm.hh.ru/vacancy/138588411",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "normal"
  },
  {
   "id": "138431212",
@@ -735,7 +604,8 @@
   "url": "https://perm.hh.ru/vacancy/138431212",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138654629",
@@ -753,7 +623,8 @@
   "url": "https://perm.hh.ru/vacancy/138654629",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139168758",
@@ -771,7 +642,8 @@
   "url": "https://perm.hh.ru/vacancy/139168758",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139103841",
@@ -789,7 +661,8 @@
   "url": "https://perm.hh.ru/vacancy/139103841",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139125040",
@@ -807,7 +680,8 @@
   "url": "https://perm.hh.ru/vacancy/139125040",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138550425",
@@ -825,7 +699,8 @@
   "url": "https://perm.hh.ru/vacancy/138550425",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139124767",
@@ -843,7 +718,8 @@
   "url": "https://perm.hh.ru/vacancy/139124767",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138588210",
@@ -861,7 +737,8 @@
   "url": "https://perm.hh.ru/vacancy/138588210",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "normal"
  },
  {
   "id": "138588190",
@@ -879,7 +756,8 @@
   "url": "https://perm.hh.ru/vacancy/138588190",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "normal"
  },
  {
   "id": "139225311",
@@ -897,25 +775,8 @@
   "url": "https://perm.hh.ru/vacancy/139225311",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139095342",
-  "name": "Мобильный клиентский менеджер",
-  "employer": "Банк ВТБ (ПАО), Розничный бизнес",
-  "per_from": 80000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 18691,
-  "exp": "noExperience",
-  "responses": 41,
-  "district": "Ленинский",
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/139095342",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138910361",
@@ -933,43 +794,8 @@
   "url": "https://perm.hh.ru/vacancy/138910361",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139115337",
-  "name": "Специалист по снабжению",
-  "employer": "Инкор",
-  "per_from": 80000,
-  "per_to": null,
-  "gross": false,
-  "rating": null,
-  "reviews": null,
-  "exp": "noExperience",
-  "responses": 174,
-  "district": "Дзержинский",
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/139115337",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139056917",
-  "name": "Оператор производственной линии",
-  "employer": "Стронгруп ПМ",
-  "per_from": 80000,
-  "per_to": 120000,
-  "gross": false,
-  "rating": null,
-  "reviews": null,
-  "exp": "noExperience",
-  "responses": 137,
-  "district": "Мотовилихинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/139056917",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138518729",
@@ -987,7 +813,46 @@
   "url": "https://perm.hh.ru/vacancy/138518729",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139115337",
+  "name": "Специалист по снабжению",
+  "employer": "Инкор",
+  "per_from": 80000,
+  "per_to": null,
+  "gross": false,
+  "rating": null,
+  "reviews": null,
+  "exp": "noExperience",
+  "responses": 174,
+  "district": "Дзержинский",
+  "pub": "2026-11-03",
+  "url": "https://perm.hh.ru/vacancy/139115337",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139056917",
+  "name": "Оператор производственной линии",
+  "employer": "Стронгруп ПМ",
+  "per_from": 80000,
+  "per_to": 120000,
+  "gross": false,
+  "rating": null,
+  "reviews": null,
+  "exp": "noExperience",
+  "responses": 137,
+  "district": "Мотовилихинский",
+  "pub": "2026-11-02",
+  "url": "https://perm.hh.ru/vacancy/139056917",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138459201",
@@ -1005,7 +870,8 @@
   "url": "https://perm.hh.ru/vacancy/138459201",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139094026",
@@ -1023,7 +889,8 @@
   "url": "https://perm.hh.ru/vacancy/139094026",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139146516",
@@ -1032,8 +899,8 @@
   "per_from": 80000,
   "per_to": 100000,
   "gross": false,
-  "rating": "5.0",
-  "reviews": 2,
+  "rating": null,
+  "reviews": null,
   "exp": "noExperience",
   "responses": 13,
   "district": "Ленинский",
@@ -1041,25 +908,8 @@
   "url": "https://perm.hh.ru/vacancy/139146516",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138537772",
-  "name": "Инженер слаботочных систем (г. Пермь)",
-  "employer": "ЦСтМ-НикСон",
-  "per_from": 80000,
-  "per_to": null,
-  "gross": false,
-  "rating": "4.8",
-  "reviews": 1,
-  "exp": "noExperience",
-  "responses": 23,
-  "district": "Свердловский",
-  "pub": "2026-10-16",
-  "url": "https://perm.hh.ru/vacancy/138537772",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138998095",
@@ -1077,25 +927,8 @@
   "url": "https://perm.hh.ru/vacancy/138998095",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139156594",
-  "name": "Специалист по страхованию и кредитованию",
-  "employer": "Авто Ритейл Диамант",
-  "per_from": 80000,
-  "per_to": null,
-  "gross": false,
-  "rating": "4.7",
-  "reviews": 80,
-  "exp": "noExperience",
-  "responses": 75,
-  "district": "Свердловский",
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/139156594",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138751380",
@@ -1113,43 +946,46 @@
   "url": "https://perm.hh.ru/vacancy/138751380",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "138880485",
-  "name": "Менеджер в офис банка (Ленина, 66)",
-  "employer": "Альфа-Банк",
-  "per_from": 80000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.5",
-  "reviews": 19786,
-  "exp": "noExperience",
-  "responses": 153,
-  "district": "Ленинский",
-  "pub": "2026-10-27",
-  "url": "https://perm.hh.ru/vacancy/138880485",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139006905",
-  "name": "Сушист",
-  "employer": "Томми Фиш",
+  "id": "138537772",
+  "name": "Инженер слаботочных систем (г. Пермь)",
+  "employer": "ЦСтМ-НикСон",
   "per_from": 80000,
   "per_to": null,
   "gross": false,
-  "rating": "3.9",
-  "reviews": 10,
+  "rating": "4.8",
+  "reviews": 1,
   "exp": "noExperience",
-  "responses": 25,
-  "district": "Дзержинский",
-  "pub": "2026-10-30",
-  "url": "https://perm.hh.ru/vacancy/139006905",
+  "responses": 23,
+  "district": "Свердловский",
+  "pub": "2026-10-16",
+  "url": "https://perm.hh.ru/vacancy/138537772",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139156594",
+  "name": "Специалист по страхованию и кредитованию",
+  "employer": "Авто Ритейл Диамант",
+  "per_from": 80000,
+  "per_to": null,
+  "gross": false,
+  "rating": "4.7",
+  "reviews": 80,
+  "exp": "noExperience",
+  "responses": 75,
+  "district": "Свердловский",
+  "pub": "2026-11-05",
+  "url": "https://perm.hh.ru/vacancy/139156594",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138238590",
@@ -1167,7 +1003,27 @@
   "url": "https://perm.hh.ru/vacancy/138238590",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139006905",
+  "name": "Сушист",
+  "employer": "Томми Фиш",
+  "per_from": 80000,
+  "per_to": null,
+  "gross": false,
+  "rating": "3.9",
+  "reviews": 10,
+  "exp": "noExperience",
+  "responses": 25,
+  "district": "Дзержинский",
+  "pub": "2026-10-30",
+  "url": "https://perm.hh.ru/vacancy/139006905",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139106576",
@@ -1185,7 +1041,8 @@
   "url": "https://perm.hh.ru/vacancy/139106576",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139194731",
@@ -1203,25 +1060,8 @@
   "url": "https://perm.hh.ru/vacancy/139194731",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139204874",
-  "name": "Сервисный инженер",
-  "employer": "Департамент банковских технологий",
-  "per_from": 75000,
-  "per_to": null,
-  "gross": false,
-  "rating": "4.1",
-  "reviews": 842,
-  "exp": "noExperience",
-  "responses": 12,
-  "district": null,
-  "pub": "2026-11-06",
-  "url": "https://perm.hh.ru/vacancy/139204874",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "131073697",
@@ -1239,7 +1079,8 @@
   "url": "https://perm.hh.ru/vacancy/131073697",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138993697",
@@ -1257,7 +1098,8 @@
   "url": "https://perm.hh.ru/vacancy/138993697",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "134268197",
@@ -1275,7 +1117,8 @@
   "url": "https://perm.hh.ru/vacancy/134268197",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "137373932",
@@ -1293,7 +1136,8 @@
   "url": "https://perm.hh.ru/vacancy/137373932",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138839725",
@@ -1311,7 +1155,8 @@
   "url": "https://perm.hh.ru/vacancy/138839725",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139050066",
@@ -1329,7 +1174,8 @@
   "url": "https://perm.hh.ru/vacancy/139050066",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139150651",
@@ -1347,61 +1193,8 @@
   "url": "https://perm.hh.ru/vacancy/139150651",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138795691",
-  "name": "Начинающий сотрудник банка",
-  "employer": "МТС Банк. Начало Карьеры",
-  "per_from": 70000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.2",
-  "reviews": 1546,
-  "exp": "noExperience",
-  "responses": 7,
-  "district": "Кировский",
-  "pub": "2026-11-06",
-  "url": "https://perm.hh.ru/vacancy/138795691",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "132734325",
-  "name": "Расклейщик",
-  "employer": "\"МТС\", Продажи и развитие",
-  "per_from": 70000,
-  "per_to": 100000,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 12,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/132734325",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "132745478",
-  "name": "Консультант по услугам компании",
-  "employer": "\"МТС\", Продажи и развитие",
-  "per_from": 70000,
-  "per_to": 100000,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 16,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/132745478",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138506304",
@@ -1419,7 +1212,8 @@
   "url": "https://perm.hh.ru/vacancy/138506304",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139135210",
@@ -1437,25 +1231,8 @@
   "url": "https://perm.hh.ru/vacancy/139135210",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139167860",
-  "name": "Формовщик изделий из гипса",
-  "employer": "Комодо Пермь",
-  "per_from": 70000,
-  "per_to": 90000,
-  "gross": false,
-  "rating": "3.6",
-  "reviews": 3,
-  "exp": "noExperience",
-  "responses": 90,
-  "district": "Дзержинский",
-  "pub": "2026-11-08",
-  "url": "https://perm.hh.ru/vacancy/139167860",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "131465618",
@@ -1473,7 +1250,27 @@
   "url": "https://perm.hh.ru/vacancy/131465618",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139167860",
+  "name": "Формовщик изделий из гипса",
+  "employer": "Комодо Пермь",
+  "per_from": 70000,
+  "per_to": 90000,
+  "gross": false,
+  "rating": "3.6",
+  "reviews": 3,
+  "exp": "noExperience",
+  "responses": 90,
+  "district": "Дзержинский",
+  "pub": "2026-11-08",
+  "url": "https://perm.hh.ru/vacancy/139167860",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "135451821",
@@ -1491,7 +1288,8 @@
   "url": "https://perm.hh.ru/vacancy/135451821",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139149208",
@@ -1509,7 +1307,8 @@
   "url": "https://perm.hh.ru/vacancy/139149208",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139101148",
@@ -1527,43 +1326,8 @@
   "url": "https://perm.hh.ru/vacancy/139101148",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139119242",
-  "name": "Начинающий специалист по заполнению заявок (без поиска), исходящая линия",
-  "employer": "Совкомбанк. Клиентский сервис",
-  "per_from": 70000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 9177,
-  "exp": "noExperience",
-  "responses": 157,
-  "district": null,
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/139119242",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139026040",
-  "name": "Мастер производственного участка (Кировский р-н)",
-  "employer": "Пермский завод Машиностроитель",
-  "per_from": 70000,
-  "per_to": null,
-  "gross": false,
-  "rating": "3.7",
-  "reviews": 42,
-  "exp": "noExperience",
-  "responses": 71,
-  "district": "Кировский",
-  "pub": "2026-10-31",
-  "url": "https://perm.hh.ru/vacancy/139026040",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138619150",
@@ -1581,7 +1345,27 @@
   "url": "https://perm.hh.ru/vacancy/138619150",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139026040",
+  "name": "Мастер производственного участка (Кировский р-н)",
+  "employer": "Пермский завод Машиностроитель",
+  "per_from": 70000,
+  "per_to": null,
+  "gross": false,
+  "rating": "3.7",
+  "reviews": 42,
+  "exp": "noExperience",
+  "responses": 71,
+  "district": "Кировский",
+  "pub": "2026-10-31",
+  "url": "https://perm.hh.ru/vacancy/139026040",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139157761",
@@ -1599,7 +1383,8 @@
   "url": "https://perm.hh.ru/vacancy/139157761",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138690437",
@@ -1617,7 +1402,8 @@
   "url": "https://perm.hh.ru/vacancy/138690437",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139001613",
@@ -1635,7 +1421,8 @@
   "url": "https://perm.hh.ru/vacancy/139001613",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138756893",
@@ -1653,25 +1440,8 @@
   "url": "https://perm.hh.ru/vacancy/138756893",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139165822",
-  "name": "Помощник оператора лазера",
-  "employer": "Большая Земля",
-  "per_from": 65000,
-  "per_to": null,
-  "gross": false,
-  "rating": "3.7",
-  "reviews": 20,
-  "exp": "noExperience",
-  "responses": 21,
-  "district": "Свердловский",
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/139165822",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138152569",
@@ -1689,7 +1459,27 @@
   "url": "https://perm.hh.ru/vacancy/138152569",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139165822",
+  "name": "Помощник оператора лазера",
+  "employer": "Большая Земля",
+  "per_from": 65000,
+  "per_to": null,
+  "gross": false,
+  "rating": "3.7",
+  "reviews": 20,
+  "exp": "noExperience",
+  "responses": 21,
+  "district": "Свердловский",
+  "pub": "2026-11-05",
+  "url": "https://perm.hh.ru/vacancy/139165822",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "132798682",
@@ -1707,7 +1497,8 @@
   "url": "https://perm.hh.ru/vacancy/132798682",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139095322",
@@ -1725,25 +1516,8 @@
   "url": "https://perm.hh.ru/vacancy/139095322",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "134257802",
-  "name": "Менеджер телефонных продаж",
-  "employer": "\"МТС\", Продажи и развитие",
-  "per_from": 63000,
-  "per_to": 108000,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 16,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/134257802",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138437182",
@@ -1761,7 +1535,8 @@
   "url": "https://perm.hh.ru/vacancy/138437182",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138521217",
@@ -1779,7 +1554,8 @@
   "url": "https://perm.hh.ru/vacancy/138521217",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139145067",
@@ -1797,25 +1573,8 @@
   "url": "https://perm.hh.ru/vacancy/139145067",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139232862",
-  "name": "Обработчик мебельных деталей на участок кромления",
-  "employer": "Antonio Mebelini (Максак М.Н)",
-  "per_from": 60000,
-  "per_to": null,
-  "gross": false,
-  "rating": "5.0",
-  "reviews": 1,
-  "exp": "noExperience",
-  "responses": 0,
-  "district": null,
-  "pub": "2026-11-08",
-  "url": "https://perm.hh.ru/vacancy/139232862",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139145412",
@@ -1833,7 +1592,8 @@
   "url": "https://perm.hh.ru/vacancy/139145412",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139198837",
@@ -1851,7 +1611,8 @@
   "url": "https://perm.hh.ru/vacancy/139198837",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138847558",
@@ -1869,7 +1630,27 @@
   "url": "https://perm.hh.ru/vacancy/138847558",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139234176",
+  "name": "Инженер-технолог",
+  "employer": "Нургалин Руслан Римович",
+  "per_from": 60000,
+  "per_to": 140000,
+  "gross": false,
+  "rating": null,
+  "reviews": null,
+  "exp": "noExperience",
+  "responses": 15,
+  "district": "Дзержинский",
+  "pub": "2026-11-08",
+  "url": "https://perm.hh.ru/vacancy/139234176",
+  "mark": "",
+  "verdict": "",
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "138604666",
@@ -1887,7 +1668,8 @@
   "url": "https://perm.hh.ru/vacancy/138604666",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138330189",
@@ -1905,7 +1687,27 @@
   "url": "https://perm.hh.ru/vacancy/138330189",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139232862",
+  "name": "Обработчик мебельных деталей на участок кромления",
+  "employer": "Antonio Mebelini (Максак М.Н)",
+  "per_from": 60000,
+  "per_to": null,
+  "gross": false,
+  "rating": "5.0",
+  "reviews": 1,
+  "exp": "noExperience",
+  "responses": 0,
+  "district": null,
+  "pub": "2026-11-08",
+  "url": "https://perm.hh.ru/vacancy/139232862",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138904884",
@@ -1923,7 +1725,8 @@
   "url": "https://perm.hh.ru/vacancy/138904884",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138721858",
@@ -1941,25 +1744,8 @@
   "url": "https://perm.hh.ru/vacancy/138721858",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138861261",
-  "name": "Распределитель работ участка сборки/прессования",
-  "employer": "Филиал ЗиД АО НПО Курганприбор г. Пермь",
-  "per_from": 60000,
-  "per_to": 90000,
-  "gross": false,
-  "rating": "3.0",
-  "reviews": 57,
-  "exp": "noExperience",
-  "responses": 115,
-  "district": "Свердловский",
-  "pub": "2026-10-27",
-  "url": "https://perm.hh.ru/vacancy/138861261",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138844142",
@@ -1977,7 +1763,27 @@
   "url": "https://perm.hh.ru/vacancy/138844142",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138861261",
+  "name": "Распределитель работ участка сборки/прессования",
+  "employer": "Филиал ЗиД АО НПО Курганприбор г. Пермь",
+  "per_from": 60000,
+  "per_to": 90000,
+  "gross": false,
+  "rating": "3.0",
+  "reviews": 57,
+  "exp": "noExperience",
+  "responses": 115,
+  "district": "Свердловский",
+  "pub": "2026-10-27",
+  "url": "https://perm.hh.ru/vacancy/138861261",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139143220",
@@ -1995,7 +1801,8 @@
   "url": "https://perm.hh.ru/vacancy/139143220",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138562273",
@@ -2013,7 +1820,8 @@
   "url": "https://perm.hh.ru/vacancy/138562273",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139040576",
@@ -2031,61 +1839,8 @@
   "url": "https://perm.hh.ru/vacancy/139040576",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138477471",
-  "name": "Нутрициолог",
-  "employer": "Клиника Современной Медицины Медлайн",
-  "per_from": 60000,
-  "per_to": null,
-  "gross": true,
-  "rating": null,
-  "reviews": null,
-  "exp": "noExperience",
-  "responses": 39,
-  "district": "Свердловский",
-  "pub": "2026-10-14",
-  "url": "https://perm.hh.ru/vacancy/138477471",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139140554",
-  "name": "Торговый представитель",
-  "employer": "Делайт Пермь",
-  "per_from": 60000,
-  "per_to": 110000,
-  "gross": true,
-  "rating": null,
-  "reviews": null,
-  "exp": "noExperience",
-  "responses": 9,
-  "district": "Дзержинский",
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/139140554",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138973554",
-  "name": "Слесарь механосборочных работ",
-  "employer": "ЭЛКАМ-нефтемаш",
-  "per_from": 60000,
-  "per_to": null,
-  "gross": false,
-  "rating": "3.9",
-  "reviews": 72,
-  "exp": "noExperience",
-  "responses": 35,
-  "district": "Свердловский",
-  "pub": "2026-10-29",
-  "url": "https://perm.hh.ru/vacancy/138973554",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138519231",
@@ -2103,25 +1858,8 @@
   "url": "https://perm.hh.ru/vacancy/138519231",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138822103",
-  "name": "Транспортировщик",
-  "employer": "МОТОВИЛИХИНСКИЕ ЗАВОДЫ (АО МЗ)",
-  "per_from": 60000,
-  "per_to": 60000,
-  "gross": false,
-  "rating": null,
-  "reviews": null,
-  "exp": "noExperience",
-  "responses": 51,
-  "district": "Мотовилихинский",
-  "pub": "2026-10-26",
-  "url": "https://perm.hh.ru/vacancy/138822103",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138508075",
@@ -2139,7 +1877,84 @@
   "url": "https://perm.hh.ru/vacancy/138508075",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138973554",
+  "name": "Слесарь механосборочных работ",
+  "employer": "ЭЛКАМ-нефтемаш",
+  "per_from": 60000,
+  "per_to": null,
+  "gross": false,
+  "rating": "3.9",
+  "reviews": 72,
+  "exp": "noExperience",
+  "responses": 35,
+  "district": "Свердловский",
+  "pub": "2026-10-29",
+  "url": "https://perm.hh.ru/vacancy/138973554",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139140554",
+  "name": "Торговый представитель",
+  "employer": "Делайт Пермь",
+  "per_from": 60000,
+  "per_to": 110000,
+  "gross": true,
+  "rating": null,
+  "reviews": null,
+  "exp": "noExperience",
+  "responses": 9,
+  "district": "Дзержинский",
+  "pub": "2026-11-05",
+  "url": "https://perm.hh.ru/vacancy/139140554",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138822103",
+  "name": "Транспортировщик",
+  "employer": "МОТОВИЛИХИНСКИЕ ЗАВОДЫ (АО МЗ)",
+  "per_from": 60000,
+  "per_to": 60000,
+  "gross": false,
+  "rating": "3.0",
+  "reviews": 120,
+  "exp": "noExperience",
+  "responses": 51,
+  "district": "Мотовилихинский",
+  "pub": "2026-10-26",
+  "url": "https://perm.hh.ru/vacancy/138822103",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138477471",
+  "name": "Нутрициолог",
+  "employer": "Клиника Современной Медицины Медлайн",
+  "per_from": 60000,
+  "per_to": null,
+  "gross": true,
+  "rating": null,
+  "reviews": null,
+  "exp": "noExperience",
+  "responses": 39,
+  "district": "Свердловский",
+  "pub": "2026-10-14",
+  "url": "https://perm.hh.ru/vacancy/138477471",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139104267",
@@ -2157,7 +1972,8 @@
   "url": "https://perm.hh.ru/vacancy/139104267",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139053499",
@@ -2175,7 +1991,8 @@
   "url": "https://perm.hh.ru/vacancy/139053499",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138904171",
@@ -2193,7 +2010,8 @@
   "url": "https://perm.hh.ru/vacancy/138904171",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "136488831",
@@ -2211,7 +2029,8 @@
   "url": "https://perm.hh.ru/vacancy/136488831",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138510946",
@@ -2229,7 +2048,8 @@
   "url": "https://perm.hh.ru/vacancy/138510946",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138901169",
@@ -2247,43 +2067,27 @@
   "url": "https://perm.hh.ru/vacancy/138901169",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "138993500",
-  "name": "Машинист насосной установки",
-  "employer": "Российские Коммунальные Системы",
+  "id": "138592051",
+  "name": "Менеджер контроля качества (клининг)",
+  "employer": "Формула чистоты",
   "per_from": 60000,
-  "per_to": null,
+  "per_to": 90000,
   "gross": false,
-  "rating": "3.2",
-  "reviews": 62,
+  "rating": "4.3",
+  "reviews": 10,
   "exp": "noExperience",
-  "responses": 77,
-  "district": "Дзержинский",
-  "pub": "2026-10-30",
-  "url": "https://perm.hh.ru/vacancy/138993500",
+  "responses": 89,
+  "district": "Ленинский",
+  "pub": "2026-10-19",
+  "url": "https://perm.hh.ru/vacancy/138592051",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139117595",
-  "name": "Менеджер смены / Менеджер ресторана / Администратор",
-  "employer": "Додо Пицца (ИП Тимощенко Евгений Александрович)",
-  "per_from": 60000,
-  "per_to": 75000,
-  "gross": false,
-  "rating": "3.7",
-  "reviews": 2,
-  "exp": "noExperience",
-  "responses": 38,
-  "district": "Свердловский",
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/139117595",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "138701045",
@@ -2301,25 +2105,8 @@
   "url": "https://perm.hh.ru/vacancy/138701045",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "136776920",
-  "name": "Специалист по работе с клиентами МТС",
-  "employer": "\"МТС\", Продажи и развитие",
-  "per_from": 58900,
-  "per_to": 85000,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
-  "exp": "noExperience",
-  "responses": 78,
-  "district": "Ленинский",
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/136776920",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "137797689",
@@ -2337,25 +2124,8 @@
   "url": "https://perm.hh.ru/vacancy/137797689",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "128767574",
-  "name": "Специалист группы тарифообразования по передаче электроэнергии",
-  "employer": "Россети Урал",
-  "per_from": 58000,
-  "per_to": 63800,
-  "gross": false,
-  "rating": "3.7",
-  "reviews": 358,
-  "exp": "noExperience",
-  "responses": 27,
-  "district": "Свердловский",
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/128767574",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138862209",
@@ -2373,7 +2143,8 @@
   "url": "https://perm.hh.ru/vacancy/138862209",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138442992",
@@ -2382,8 +2153,8 @@
   "per_from": 56900,
   "per_to": null,
   "gross": true,
-  "rating": null,
-  "reviews": null,
+  "rating": "3.9",
+  "reviews": 1001,
   "exp": "noExperience",
   "responses": 142,
   "district": "Индустриальный",
@@ -2391,7 +2162,8 @@
   "url": "https://perm.hh.ru/vacancy/138442992",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "137315278",
@@ -2409,7 +2181,8 @@
   "url": "https://perm.hh.ru/vacancy/137315278",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139208618",
@@ -2427,25 +2200,8 @@
   "url": "https://perm.hh.ru/vacancy/139208618",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138915050",
-  "name": "Консультант отдела муниципального земельного контроля",
-  "employer": "Департамент земельных отношений администрации г. Перми",
-  "per_from": 55000,
-  "per_to": 60000,
-  "gross": false,
-  "rating": "3.3",
-  "reviews": 11,
-  "exp": "noExperience",
-  "responses": 318,
-  "district": "Ленинский",
-  "pub": "2026-10-28",
-  "url": "https://perm.hh.ru/vacancy/138915050",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138592470",
@@ -2463,25 +2219,27 @@
   "url": "https://perm.hh.ru/vacancy/138592470",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "139143935",
-  "name": "Менеджер по обработке лидов (без поиска Клиентов)",
-  "employer": "ЭР-Телеком Холдинг. Продажи",
+  "id": "138915050",
+  "name": "Консультант отдела муниципального земельного контроля",
+  "employer": "Департамент земельных отношений администрации г. Перми",
   "per_from": 55000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.2",
-  "reviews": 3045,
+  "per_to": 60000,
+  "gross": false,
+  "rating": "3.3",
+  "reviews": 11,
   "exp": "noExperience",
-  "responses": 36,
-  "district": "Индустриальный",
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/139143935",
+  "responses": 318,
+  "district": "Ленинский",
+  "pub": "2026-10-28",
+  "url": "https://perm.hh.ru/vacancy/138915050",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139202503",
@@ -2499,43 +2257,46 @@
   "url": "https://perm.hh.ru/vacancy/139202503",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "135821280",
-  "name": "Оператор контактного центра",
-  "employer": "«МТС», Поддержка клиентов",
-  "per_from": 53000,
+  "id": "139143935",
+  "name": "Менеджер по обработке лидов (без поиска Клиентов)",
+  "employer": "ЭР-Телеком Холдинг. Продажи",
+  "per_from": 55000,
   "per_to": null,
   "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
+  "rating": "4.2",
+  "reviews": 3045,
   "exp": "noExperience",
-  "responses": 135,
-  "district": null,
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/135821280",
+  "responses": 36,
+  "district": "Индустриальный",
+  "pub": "2026-11-05",
+  "url": "https://perm.hh.ru/vacancy/139143935",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "136726917",
-  "name": "Оператор кол-центра МТС",
-  "employer": "«МТС», Поддержка клиентов",
-  "per_from": 53000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.3",
-  "reviews": 15187,
+  "id": "135437693",
+  "name": "Слесарь механосборочных работ (с обучением)",
+  "employer": "ПЗТО ТИТАН",
+  "per_from": 54500,
+  "per_to": 72000,
+  "gross": false,
+  "rating": "3.1",
+  "reviews": 27,
   "exp": "noExperience",
-  "responses": 22,
-  "district": null,
-  "pub": "2026-11-02",
-  "url": "https://perm.hh.ru/vacancy/136726917",
+  "responses": 20,
+  "district": "Орджоникидзевский",
+  "pub": "2026-10-17",
+  "url": "https://perm.hh.ru/vacancy/135437693",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "139169408",
@@ -2553,7 +2314,8 @@
   "url": "https://perm.hh.ru/vacancy/139169408",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139208372",
@@ -2571,7 +2333,8 @@
   "url": "https://perm.hh.ru/vacancy/139208372",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139205113",
@@ -2589,7 +2352,8 @@
   "url": "https://perm.hh.ru/vacancy/139205113",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "135828928",
@@ -2598,8 +2362,8 @@
   "per_from": 51000,
   "per_to": null,
   "gross": true,
-  "rating": null,
-  "reviews": null,
+  "rating": "4.2",
+  "reviews": 3045,
   "exp": "noExperience",
   "responses": 41,
   "district": "Индустриальный",
@@ -2607,7 +2371,8 @@
   "url": "https://perm.hh.ru/vacancy/135828928",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "137584150",
@@ -2625,7 +2390,8 @@
   "url": "https://perm.hh.ru/vacancy/137584150",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138851647",
@@ -2643,7 +2409,8 @@
   "url": "https://perm.hh.ru/vacancy/138851647",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139130668",
@@ -2661,7 +2428,8 @@
   "url": "https://perm.hh.ru/vacancy/139130668",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138412446",
@@ -2679,7 +2447,8 @@
   "url": "https://perm.hh.ru/vacancy/138412446",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "137351498",
@@ -2697,7 +2466,8 @@
   "url": "https://perm.hh.ru/vacancy/137351498",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139145207",
@@ -2715,25 +2485,8 @@
   "url": "https://perm.hh.ru/vacancy/139145207",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139039237",
-  "name": "Оператор склада",
-  "employer": "Ростелеком",
-  "per_from": 50000,
-  "per_to": null,
-  "gross": true,
-  "rating": "4.1",
-  "reviews": 15662,
-  "exp": "noExperience",
-  "responses": 116,
-  "district": "Свердловский",
-  "pub": "2026-11-01",
-  "url": "https://perm.hh.ru/vacancy/139039237",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138774394",
@@ -2742,8 +2495,8 @@
   "per_from": 50000,
   "per_to": 70000,
   "gross": false,
-  "rating": "4.5",
-  "reviews": 75,
+  "rating": null,
+  "reviews": null,
   "exp": "noExperience",
   "responses": 58,
   "district": "Ленинский",
@@ -2751,7 +2504,8 @@
   "url": "https://perm.hh.ru/vacancy/138774394",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138905526",
@@ -2769,25 +2523,8 @@
   "url": "https://perm.hh.ru/vacancy/138905526",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138443789",
-  "name": "Оператор видеонаблюдения",
-  "employer": "Частное Охранное предприятие Артакс+",
-  "per_from": 50000,
-  "per_to": 50000,
-  "gross": false,
-  "rating": "2.7",
-  "reviews": 4,
-  "exp": "noExperience",
-  "responses": 9,
-  "district": "Мотовилихинский",
-  "pub": "2026-11-05",
-  "url": "https://perm.hh.ru/vacancy/138443789",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138362376",
@@ -2805,7 +2542,27 @@
   "url": "https://perm.hh.ru/vacancy/138362376",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138443789",
+  "name": "Оператор видеонаблюдения",
+  "employer": "Частное Охранное предприятие Артакс+",
+  "per_from": 50000,
+  "per_to": 50000,
+  "gross": false,
+  "rating": "2.7",
+  "reviews": 4,
+  "exp": "noExperience",
+  "responses": 9,
+  "district": "Мотовилихинский",
+  "pub": "2026-11-05",
+  "url": "https://perm.hh.ru/vacancy/138443789",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138760526",
@@ -2823,7 +2580,8 @@
   "url": "https://perm.hh.ru/vacancy/138760526",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138443788",
@@ -2841,7 +2599,8 @@
   "url": "https://perm.hh.ru/vacancy/138443788",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "128235757",
@@ -2859,7 +2618,8 @@
   "url": "https://perm.hh.ru/vacancy/128235757",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138875261",
@@ -2877,7 +2637,8 @@
   "url": "https://perm.hh.ru/vacancy/138875261",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139102761",
@@ -2895,7 +2656,8 @@
   "url": "https://perm.hh.ru/vacancy/139102761",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139058893",
@@ -2913,7 +2675,8 @@
   "url": "https://perm.hh.ru/vacancy/139058893",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138636099",
@@ -2931,7 +2694,8 @@
   "url": "https://perm.hh.ru/vacancy/138636099",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139190548",
@@ -2949,7 +2713,8 @@
   "url": "https://perm.hh.ru/vacancy/139190548",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138723646",
@@ -2967,7 +2732,8 @@
   "url": "https://perm.hh.ru/vacancy/138723646",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138811401",
@@ -2985,7 +2751,8 @@
   "url": "https://perm.hh.ru/vacancy/138811401",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139194576",
@@ -3003,7 +2770,8 @@
   "url": "https://perm.hh.ru/vacancy/139194576",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138885193",
@@ -3021,7 +2789,8 @@
   "url": "https://perm.hh.ru/vacancy/138885193",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139187941",
@@ -3039,7 +2808,8 @@
   "url": "https://perm.hh.ru/vacancy/139187941",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139210866",
@@ -3057,25 +2827,27 @@
   "url": "https://perm.hh.ru/vacancy/139210866",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
-  "id": "138793643",
-  "name": "Сотрудник прачечной (Индустриальный р-н)",
-  "employer": "ТМ",
+  "id": "138740330",
+  "name": "Менеджер отдела продаж Фитнес-Клуба",
+  "employer": "Fit-Line",
   "per_from": 42000,
-  "per_to": 70000,
+  "per_to": 65000,
   "gross": false,
-  "rating": "4.0",
-  "reviews": 8,
+  "rating": "4.8",
+  "reviews": 2,
   "exp": "noExperience",
-  "responses": 26,
-  "district": "Индустриальный",
-  "pub": "2026-11-03",
-  "url": "https://perm.hh.ru/vacancy/138793643",
+  "responses": 30,
+  "district": "Орджоникидзевский",
+  "pub": "2026-10-22",
+  "url": "https://perm.hh.ru/vacancy/138740330",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "138548102",
@@ -3093,7 +2865,8 @@
   "url": "https://perm.hh.ru/vacancy/138548102",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139050455",
@@ -3111,7 +2884,8 @@
   "url": "https://perm.hh.ru/vacancy/139050455",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139172229",
@@ -3129,7 +2903,8 @@
   "url": "https://perm.hh.ru/vacancy/139172229",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139038602",
@@ -3147,7 +2922,8 @@
   "url": "https://perm.hh.ru/vacancy/139038602",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138816348",
@@ -3165,7 +2941,8 @@
   "url": "https://perm.hh.ru/vacancy/138816348",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138636120",
@@ -3183,7 +2960,8 @@
   "url": "https://perm.hh.ru/vacancy/138636120",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139102035",
@@ -3201,25 +2979,8 @@
   "url": "https://perm.hh.ru/vacancy/139102035",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "138803697",
-  "name": "Слесарь по ремонту автомобилей БЕЗ ОПЫТА",
-  "employer": "VERRA",
-  "per_from": 40000,
-  "per_to": 60000,
-  "gross": false,
-  "rating": "4.5",
-  "reviews": 103,
-  "exp": "noExperience",
-  "responses": 12,
-  "district": "Свердловский",
-  "pub": "2026-10-24",
-  "url": "https://perm.hh.ru/vacancy/138803697",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138336118",
@@ -3237,7 +2998,46 @@
   "url": "https://perm.hh.ru/vacancy/138336118",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138803697",
+  "name": "Слесарь по ремонту автомобилей БЕЗ ОПЫТА",
+  "employer": "VERRA",
+  "per_from": 40000,
+  "per_to": 60000,
+  "gross": false,
+  "rating": "4.5",
+  "reviews": 103,
+  "exp": "noExperience",
+  "responses": 12,
+  "district": "Свердловский",
+  "pub": "2026-10-24",
+  "url": "https://perm.hh.ru/vacancy/138803697",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "138757506",
+  "name": "Секретарь судебного заседания Кировского районного суда г. Перми",
+  "employer": "Кировский районный суд г. Перми",
+  "per_from": 40000,
+  "per_to": 50000,
+  "gross": true,
+  "rating": "4.5",
+  "reviews": 1,
+  "exp": "noExperience",
+  "responses": 12,
+  "district": "Кировский",
+  "pub": "2026-11-02",
+  "url": "https://perm.hh.ru/vacancy/138757506",
+  "mark": "",
+  "verdict": "",
+  "is_new": true,
+  "size": "small"
  },
  {
   "id": "138352003",
@@ -3255,7 +3055,8 @@
   "url": "https://perm.hh.ru/vacancy/138352003",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138542970",
@@ -3273,7 +3074,8 @@
   "url": "https://perm.hh.ru/vacancy/138542970",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139178361",
@@ -3291,7 +3093,8 @@
   "url": "https://perm.hh.ru/vacancy/139178361",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138505966",
@@ -3309,7 +3112,8 @@
   "url": "https://perm.hh.ru/vacancy/138505966",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138708448",
@@ -3327,7 +3131,8 @@
   "url": "https://perm.hh.ru/vacancy/138708448",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "130478441",
@@ -3345,7 +3150,8 @@
   "url": "https://perm.hh.ru/vacancy/130478441",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138770482",
@@ -3363,7 +3169,8 @@
   "url": "https://perm.hh.ru/vacancy/138770482",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138343192",
@@ -3381,7 +3188,8 @@
   "url": "https://perm.hh.ru/vacancy/138343192",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138487965",
@@ -3399,7 +3207,8 @@
   "url": "https://perm.hh.ru/vacancy/138487965",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138589539",
@@ -3417,7 +3226,8 @@
   "url": "https://perm.hh.ru/vacancy/138589539",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138924245",
@@ -3435,25 +3245,8 @@
   "url": "https://perm.hh.ru/vacancy/138924245",
   "mark": "",
   "verdict": "",
-  "is_new": false
- },
- {
-  "id": "139008002",
-  "name": "Механик автоколонны",
-  "employer": "Автолайф Логистик",
-  "per_from": null,
-  "per_to": 190000,
-  "gross": false,
-  "rating": "4.7",
-  "reviews": 1,
-  "exp": "noExperience",
-  "responses": 95,
-  "district": null,
-  "pub": "2026-10-30",
-  "url": "https://perm.hh.ru/vacancy/139008002",
-  "mark": "",
-  "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "135915569",
@@ -3471,7 +3264,8 @@
   "url": "https://perm.hh.ru/vacancy/135915569",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "138343193",
@@ -3489,7 +3283,27 @@
   "url": "https://perm.hh.ru/vacancy/138343193",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
+ },
+ {
+  "id": "139008002",
+  "name": "Механик автоколонны",
+  "employer": "Автолайф Логистик",
+  "per_from": null,
+  "per_to": 190000,
+  "gross": false,
+  "rating": "4.7",
+  "reviews": 1,
+  "exp": "noExperience",
+  "responses": 95,
+  "district": null,
+  "pub": "2026-10-30",
+  "url": "https://perm.hh.ru/vacancy/139008002",
+  "mark": "",
+  "verdict": "",
+  "is_new": false,
+  "size": "small"
  },
  {
   "id": "139187443",
@@ -3507,6 +3321,7 @@
   "url": "https://perm.hh.ru/vacancy/139187443",
   "mark": "",
   "verdict": "",
-  "is_new": false
+  "is_new": false,
+  "size": "small"
  }
 ]

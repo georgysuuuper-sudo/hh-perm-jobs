@@ -14,6 +14,7 @@ import re
 import subprocess
 import sys
 import time
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -155,6 +156,49 @@ JUNK = [
     (r"воспитател|нян|сиделк|аниматор детск", "соцсфера"),
 ]
 
+# Компании-гиганты (банки, телекомы, федеральные сети, гео-обманки) —
+# выгружаются только если вакансия в STARS. Совпадение по employer.
+GIANT_PATTERNS = [
+    r"банк",
+    r"т-банк|тбанк|сбер",
+    r"втб",
+    r"альфа",
+    r"мтс",
+    r"билайн|вымпелком",
+    r"мегафон",
+    r"теле2|tele2|т2",
+    r"яндекс",
+    r"озон|ozon",
+    r"вайлдберриз|wildberries",
+    r"ростелеком",
+    r"газпром",
+    r"роснефт",
+    r"лукойл",
+    r"северсталь",
+    r"росатом",
+    r"ржд|рждк",
+    r"почта россии",
+    r"x5|пятёрочка|перекрёсток",
+    r"магнит",
+    r"лента",
+    r"ашан",
+    r"аэрофлот",
+    r"сбермаркет|купер|самокат|кнопка|кухня на районе",
+    r"алабуга",
+    r"нокст",
+    r"уралхим",
+    r"уралкалий",
+    r"симаз|камаз|соллерс|газ group|группа газ",
+    r"ростсельмаш",
+    r"эльдорадо|мвидео|ситилинк|днс|dns",
+    r"леруа мерлен|петрович",
+    r"аптек(а|и) (райфайз|горздрав|36,6)|планета здоровья",
+    r"бистро|додо пицца|бургер кинг|макдоналдс|вкусно и точка",
+    r"сдэк|сdec|boxberry|cdek",
+]
+
+GIANT_MIN_VACS = 15  # вакансий в недельной выборке — считаем конвейером гиганта
+
 # id: (rank, короткий вердикт)
 STARS = {
     "139183032": (1, "Обучение сборке/ремонту ПК с нуля, малая контора, вход в IT через железо"),
@@ -205,12 +249,28 @@ def main():
              # пользователь ищет только вакансии без опыта
              and (v.get("exp") == "noExperience")]
 
+    emp_cnt = Counter(v.get("employer") or "" for v in clean)
+
+    def is_giant(v):
+        """Гигант: известный бренд из GIANT_PATTERNS или конвейер вакансий.
+        Звёздные вакансии не вырезаем никогда."""
+        if str(v["id"]) in STARS:
+            return False
+        emp = (v.get("employer") or "").lower()
+        if emp and emp_cnt[emp] >= GIANT_MIN_VACS:
+            return True
+        return any(re.search(p, emp) for p in GIANT_PATTERNS)
+
+    giants = sorted({v.get("employer") or "?" for v in clean if is_giant(v)}, key=str.lower)
+    if giants:
+        print("giants cut:", len(giants), "->", "; ".join(giants))
+
     out = []
     new_count = 0
     for v in clean:
         vid = str(v["id"])
-        # ловушки и автофильтр-мусор вообще не выгружаем (звёздные — исключение)
-        if vid in TRAPS or (vid not in STARS and junk_label(v)):
+        # ловушки, гиганты и автофильтр-мусор вообще не выгружаем (звёздные — исключение)
+        if vid in TRAPS or is_giant(v) or (vid not in STARS and junk_label(v)):
             continue
         is_new = vid not in seen
         if is_new:
@@ -237,6 +297,11 @@ def main():
             "verdict": verdict,
             "is_new": is_new,
         })
+
+    # плюсик малым: 1–2 вакансии в финальной выборке -> small
+    final_cnt = Counter(v["employer"] for v in out)
+    for v in out:
+        v["size"] = "small" if final_cnt[v["employer"]] <= 2 else "normal"
 
     # сортировка: шорт-лист по рангу, затем по убыванию ЗП
     star_rank = {k: r for k, (r, _) in STARS.items()}
